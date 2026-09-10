@@ -1,0 +1,6 @@
+-- AtmoSync Snowflake Database Setup
+-- Prakruthi - Day 1
+
+CREATE DATABASE IF NOT EXISTS ATMOSYNC_DB;
+
+CREATE SCHEMA IF NOT EXISTS ATMOSYNC_DB.RAW;
