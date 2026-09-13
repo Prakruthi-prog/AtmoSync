@@ -61,7 +61,7 @@ AtmoSync
 - [x] Checking missing values
 - [x] Basic statistical analysis
 - [x] Day 2 data analysis
-- [ ] Data cleaning
+- [x] Data cleaning
 - [ ] Data validation
 - [ ] Data visualization
 - [ ] PostgreSQL analysis
